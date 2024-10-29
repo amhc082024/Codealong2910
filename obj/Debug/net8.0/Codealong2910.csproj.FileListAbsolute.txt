@@ -1,0 +1,4 @@
+C:\Users\joblo\OneDrive\Skrivebord\backend\Codealong2910\obj\Debug\net8.0\Codealong2910.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joblo\OneDrive\Skrivebord\backend\Codealong2910\obj\Debug\net8.0\Codealong2910.AssemblyInfoInputs.cache
+C:\Users\joblo\OneDrive\Skrivebord\backend\Codealong2910\obj\Debug\net8.0\Codealong2910.AssemblyInfo.cs
+C:\Users\joblo\OneDrive\Skrivebord\backend\Codealong2910\obj\Debug\net8.0\Codealong2910.csproj.CoreCompileInputs.cache
