@@ -12,6 +12,15 @@ class Program
         //we use the controller to test our program.
         controller.DisplayModel();
 
+        // We can check whether or not our methods work
+        controller.UpdateName();
+
+        controller.UpdateAge();
+
+        //call the display method again if our model was updated.
+
+        controller.DisplayModel();
+
         // Use the Readline() to stall the program and keep it running.
         Console.ReadLine();
 
